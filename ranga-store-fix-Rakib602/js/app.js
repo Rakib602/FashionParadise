@@ -91,6 +91,6 @@ const updateTotal = () => {
 
 // buy now function 
 const buyNow = () => {
-  alert('Buy Now Option will be Update Soon !! Thank You');
+  alert('Thank You to Buying Our product');
 }
 
